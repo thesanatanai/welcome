@@ -167,4 +167,4 @@ if (sectionsList.length > 1) {
     }, "-=0.2");
 }
 
-window.addEventListener("load", () => document.querySelector("div.loader-parent")?.classList.add("hide"));
+window.addEventListener("load", () => document.querySelector("div.loader-parent").classList.add("hide"));
