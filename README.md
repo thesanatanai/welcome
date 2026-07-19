@@ -1,4 +1,4 @@
-<p align="center"><img style="max-width: min(100%, 200px)" src="favicon.svg" /></p>
+<p align="center"><img style="max-width: 200px" src="favicon.svg" /></p>
 <h1 align="center">Sanatan AI</h1>
 
 A beautifully crafted, animated web experience for Sanatan AI — a forward-looking assistant that blends modern technology with timeless wisdom, spirituality, and knowledge.
